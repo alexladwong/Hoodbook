@@ -62,10 +62,13 @@ h6{
     margin-top:30px;
     color: white;
     font-size: 15px;
-    text-decoration: none;
-    
+   
 }
-
+h3{
+     text-decoration: none;
+    cursor: pointer;
+}
+    
 strong{
     color: orange;
 }
